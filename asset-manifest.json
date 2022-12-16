@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/reactshop/static/css/main.9420e6ed.css",
+    "main.js": "/reactshop/static/js/main.79f7c7aa.js",
+    "static/js/787.103d6c52.chunk.js": "/reactshop/static/js/787.103d6c52.chunk.js",
+    "static/media/BrandIcon.svg": "/reactshop/static/media/BrandIcon.c06a5a2f12977abf2dabceb97135f3be.svg",
+    "static/media/EmptyCart.svg": "/reactshop/static/media/EmptyCart.d19953670255792370f9fd25fc20f2ce.svg",
+    "index.html": "/reactshop/index.html",
+    "static/media/previous.svg": "/reactshop/static/media/previous.094650e36d34652232c9374dc5998a78.svg",
+    "static/media/Vector.svg": "/reactshop/static/media/Vector.766d7b11f183f77a1e40c47ea18dd7ee.svg",
+    "main.9420e6ed.css.map": "/reactshop/static/css/main.9420e6ed.css.map",
+    "main.79f7c7aa.js.map": "/reactshop/static/js/main.79f7c7aa.js.map",
+    "787.103d6c52.chunk.js.map": "/reactshop/static/js/787.103d6c52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9420e6ed.css",
+    "static/js/main.79f7c7aa.js"
+  ]
+}
