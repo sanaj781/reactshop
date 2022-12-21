@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/reactshop/static/css/main.de7a0fb7.css",
-    "main.js": "/reactshop/static/js/main.f4ed1e3c.js",
+    "main.css": "/reactshop/static/css/main.a2159d22.css",
+    "main.js": "/reactshop/static/js/main.a74e48e0.js",
     "static/js/787.9bac4c1b.chunk.js": "/reactshop/static/js/787.9bac4c1b.chunk.js",
     "static/media/BrandIcon.svg": "/reactshop/static/media/BrandIcon.c06a5a2f12977abf2dabceb97135f3be.svg",
     "static/media/EmptyCart.svg": "/reactshop/static/media/EmptyCart.d19953670255792370f9fd25fc20f2ce.svg",
     "index.html": "/reactshop/index.html",
     "static/media/previous.svg": "/reactshop/static/media/previous.094650e36d34652232c9374dc5998a78.svg",
     "static/media/Vector.svg": "/reactshop/static/media/Vector.766d7b11f183f77a1e40c47ea18dd7ee.svg",
-    "main.de7a0fb7.css.map": "/reactshop/static/css/main.de7a0fb7.css.map",
-    "main.f4ed1e3c.js.map": "/reactshop/static/js/main.f4ed1e3c.js.map",
+    "main.a2159d22.css.map": "/reactshop/static/css/main.a2159d22.css.map",
+    "main.a74e48e0.js.map": "/reactshop/static/js/main.a74e48e0.js.map",
     "787.9bac4c1b.chunk.js.map": "/reactshop/static/js/787.9bac4c1b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de7a0fb7.css",
-    "static/js/main.f4ed1e3c.js"
+    "static/css/main.a2159d22.css",
+    "static/js/main.a74e48e0.js"
   ]
 }
